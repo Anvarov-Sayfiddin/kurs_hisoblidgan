@@ -1,0 +1,15 @@
+.container {
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.title {
+    padding-left: 50px;
+}
+
+.wrapper {
+    padding-top: 50px;
+    padding-left: 50px;
+}
